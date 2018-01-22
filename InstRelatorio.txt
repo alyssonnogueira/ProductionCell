@@ -1,0 +1,7 @@
+Descrever tarefas  Ok!
+Tarefas de controle Ok!
+quanto em quanto tempo Ok!
+descrição de cada thread Ok!
+diagrama de classe Ok!
+diagrama de sequencia
+Tabela com tempo das threads. 
